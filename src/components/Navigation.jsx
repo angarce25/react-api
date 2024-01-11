@@ -1,6 +1,7 @@
 import { useContext } from 'react';
 import { Link, Outlet, useNavigate } from 'react-router-dom';
 import { PokemonContext } from '../context/PokemonContext';
+import logo from '../assets/Pokédex_logo.png';
 
 
 export const Navigation = () => {
