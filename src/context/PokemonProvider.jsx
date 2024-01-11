@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react';
-import { useForm } from '../hook/Useform.js';
+import { useForm } from '../hook/useform';
 import { PokemonContext } from './PokemonContext';
 
 export const PokemonProvider = ({ children }) => {
