@@ -28,7 +28,7 @@ npm start o npm run dev
 
 3. **Explorar la Aplicación:**
 
-La aplicación estará disponible en <a href="http://localhost:3000">link</a>
+La aplicación estará disponible en <a href="https://master--pokeapiandrea.netlify.app/">link</a>
 Explora la información sobre Pokémon desde la PokeAPI.(https://pokeapi.co/) 
 
 
