@@ -1,6 +1,6 @@
 # Proyecto React con PokeAPI
 
-![Poke](../react-api/src/assets/Pokédex_logo.png)
+![Poke](./src/assets/Pokédex_logo.png)
 
 Este es un proyecto básico de React que utiliza la PokeAPI para mostrar información sobre Pokémon.
 
