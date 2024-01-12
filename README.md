@@ -9,7 +9,7 @@ Este es un proyecto básico de React que utiliza la PokeAPI para mostrar informa
 
 
 1. **Comandos para subir el repositorio a github:**
-> .[Pasos a seguir].</br>
+> [Pasos a seguir]</br>
 
 
 <ul>git init</ul>
